@@ -1,2 +1,0 @@
-Selected task ids: e a b f d c 
-No. of tasks= 6
